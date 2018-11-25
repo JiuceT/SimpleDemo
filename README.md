@@ -1,2 +1,2 @@
 # SimpleDemo
-base in Bootos//     just a demo
+base on Bootos//     just a demo
